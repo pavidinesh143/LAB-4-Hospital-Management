@@ -21,4 +21,5 @@ This application provides a way to record this information and to access these i
 ## Package Diagram:
 ![image](https://github.com/22002525karthikeyan/LAB-4-Hospital-Management/assets/118708040/6ad8b234-e206-45a7-920c-762446d933af)
 ### RESULT:
+
 Thus the Hospital management System project was executed and the output was verified.
